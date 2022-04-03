@@ -22,5 +22,12 @@ Clonage du projet :
 
 Lancement des containers Docker :
 
+<<<<<<< HEAD
     cd le_bon_sandwich-2022/lbs.2021
     docker-compose up -d
+=======
+    cd le_bon_sandwich-2022/lbs2022
+    docker-compose up -d
+    
+
+>>>>>>> 284b64b513aa7d4459f1ac47af7edb647930eacd
