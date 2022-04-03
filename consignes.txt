@@ -1,0 +1,13 @@
+service front-office: prendre les commande, aller cherche le tarif dans le catalogue.
+
+Docker-compose sur docketu si on veut cacher des services, dans le docker composer on supprime les pports pour ccertains services, ils reste accessible par le hostname à l'intérieur du réseaux 
+mais inaxessivle de l'ext
+
+Accessible par le client: api.backoffice.local, web.catalogue.local, outil qui permet d'inspecter la bdd, api.lbs.local
+ 
+
+déploiement sur docketu.fr:1280/api
+Host: docketu.fr
+Soit on déclare dans les services un vhost qui correspond à ce nom là dans les conteneurs php
+Sinon comme Directus on utilise celui par défaut: localhost (utiliser le dossier html)
+

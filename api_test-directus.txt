@@ -1,0 +1,4 @@
+
+Exécute l'ensemble de requêtes
+permettant d'obtenir les sandwichs de la catégorie "classique":
+http://localhost:8055/items/sandwich?fields=id,libelle,description,prix&filter[idCat][_eq]=1
