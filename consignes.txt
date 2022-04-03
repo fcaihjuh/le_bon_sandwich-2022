@@ -1,7 +1,7 @@
 service front-office: prendre les commande, aller cherche le tarif dans le catalogue.
 
-Docker-compose sur docketu si on veut cacher des services, dans le docker composer on supprime les pports pour ccertains services, ils reste accessible par le hostname à l'intérieur du réseaux 
-mais inaxessivle de l'ext
+Docker-compose sur docketu si on veut cacher des services, dans le docker composer on supprime les ports pour certains services, ils reste accessible par le hostname à l'intérieur du réseaux 
+mais inaccessible de l'ext
 
 Accessible par le client: api.backoffice.local, web.catalogue.local, outil qui permet d'inspecter la bdd, api.lbs.local
  
