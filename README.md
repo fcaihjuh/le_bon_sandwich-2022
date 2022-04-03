@@ -22,8 +22,7 @@ Clonage du projet :
 
 Lancement des containers Docker :
 
-    cd le_bon_sandwich-2022/lbs.2021
+    cd le_bon_sandwich-2022/lbs2022
     docker-compose up -d
     
-**Lien vers la documentation de l'API** : https://docs.google.com/document/d/1hik810ywbcwW9FDRsxDtMYHvaw2xQzEj9QpOE16XSdQ/edit?usp=sharing
 
